@@ -1,43 +1,56 @@
+   //This is my first Javascript Code
+   //console.log('Hello World');
 
-//console.log('Hello World');
+   //let name = 'Godwin';
+   //console.log(name);
+
+   //let name = 'Godwin';
+   //let age = 31;
+   //let isApproved = true;
+   //let firstName = undefined;
+   //let SelectedColor = null;
 
 
-//let InterestRate = 1;
-//InterestRate = 1;
-//console.log(InterestRate);
+   let x = 1;
+   let y = 4;
 
-//let name = 'Godwin'; //This is a string
-//let age = 31; //This is a number
-//let isApproved = true; //This is a Boolean Literal
-//let firstName = undefined; 
-//let lastName = null;
+   // console.log(x + y);
+   // console.log(x - y);
+   // console.log(x * y);
+   // console.log(x / y);
+   // console.log (x ** y);
+   // console.log (x % y);
 
-// let Person = {
-//     name: 'Godwin',
-//     age: 20
-// };
+   //Increment Operators (++)
+   //   console.log(x++)
+   //   console.log(x);
 
-// Dot Notation
-// Person.name = 'David';
+   //Decrement Operators (--)
+   // console.log(--x);
 
-// //Bracket Notation
-// Person ['name'] = 'Mary'
+   //Assignment Operator
+   // x = x + 3;
+   // x += 3;
 
-// console.log(Person.name);
+   //Comparison Operators
 
-// let selectedColors = ['red', 'blue'];
-// selectedColors[2] = 'green';
-// console.log(selectedColors.length);
+   //Relational Operators
 
-// Performing a task
-function greet (name, lastName) {
-    console.log('Hello ' + name + ' ' + lastName);
-}
+   // console.log(x > 0);
+   // console.log(x >= 1);
+   // console.log(x < 1);
+   // console.log(x <= 1);
 
-// Calculating a task
-function square (number){
-    return number * number;
-}
+   //Equality Opertaors
+   // console.log(x === 1);
+   // console.log(x !== 1);
 
-console.log(square(2));
-//greet('John', 'David');
+
+   //Strict Equality Operators
+   console.log(1===1);
+   console.log('1' === 1);
+
+   //Loose Equality
+   console.log(1 == 1);
+   console.log('1' == 1);
+   console.log(true == 1);
